@@ -1,0 +1,57 @@
+body{
+    direction: ltr;
+}
+.prod{
+    text-align: center;
+    float: left;
+
+
+}
+.iphone{
+    display: inl;
+    border: 1px solid grey;
+    width: 20%;;
+    float: left;
+    margin: 3px;
+}
+h1{
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.ip9{
+    color: black;
+    font-weight: 300;
+}
+p{
+    color: gray;
+    font-size: smaller;
+}
+.offer{
+    font-size: small;
+    color: green;
+}
+.orginal{
+    font-size:x-small;
+    color: red;
+    text-decoration: line-through;
+}
+.clearfix{
+    clear: left;
+}
+.cart{
+    background-color: blue;
+    margin-right: 3px;
+}
+.fav{
+    background-color: white;
+    color: blue;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
